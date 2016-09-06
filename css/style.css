@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+	background-image: url("../img/smitye.jpg");
+	background-size: 80px 60px;
+}
+h1{
+	text-align: center;
+	font-family: verdana;
+	color: gold;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+article{
+	margin: 6em auto;
+	border-radius: 15px 50px;
+	border: 3px solid silver;
+	background-image: url("../img/stone.jpg");
+	padding: 20px;
+	width: 1000px;
+	height: 1600px;
+
+}
+p{
+	text-align: center;
+}
+ul{
+	text-align: center;
+	color: white;
+	font-family: verdana;
+}
